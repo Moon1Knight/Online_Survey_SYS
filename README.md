@@ -3,7 +3,7 @@ Survey-Sheet
 
 SurveySheet is an online survey system for create and publish online surveys in minutes, and view results graphically and in real time. 
 
-# Features
+## Features
 Survey Creation: Easily design custom surveys with various question types.
 Real-Time Results: View survey responses graphically as they are submitted.
 User Management: Administer user roles and permissions for survey participation and creation.
