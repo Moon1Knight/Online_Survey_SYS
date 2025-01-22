@@ -36,4 +36,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Inspired by the need for efficient online survey solutions.  
 Utilizes Spring Boot and Thymeleaf for rapid development.  
 
-::contentReference[oaicite:0]{index=0}
